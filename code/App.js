@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useState } from 'react'
 //
-import './main.scss'
+import './main.css'
 // --------- >
 const App = ({
 
